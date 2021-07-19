@@ -1,0 +1,166 @@
+.card {
+  border-color: black;
+  border-style: outset;
+  padding: 1rem;
+  border-radius: 1rem;
+  margin: 1rem;
+  width: 20%;
+  height: 250px;
+}
+
+.card:hover {
+  background-color: #f5e4e0;
+}
+
+.name {
+  text-align: center;
+}
+.textcontainer {
+  display: flex;
+  width: 100%;
+}
+
+.text {
+  /* color: white; */
+  margin: 0;
+  padding: 0;
+}
+
+.img {
+  width: 100%;
+  border-radius: 4rem;
+  background-color: #333;
+}
+
+.fire {
+  background-color: #ee8b87;
+  margin-right: 7px;
+  border-radius: 1rem;
+  padding: 5px 10px 5px 10px;
+}
+
+.poison {
+  background-color: rgb(197, 167, 197);
+  margin-right: 7px;
+  border-radius: 1rem;
+  padding: 5px 10px 5px 10px;
+}
+
+.grass {
+  background-color: #afcfa3;
+  margin-right: 7px;
+  border-radius: 1rem;
+  padding: 5px 10px 5px 10px;
+}
+
+.shadow {
+  background-color: #949793;
+  margin-right: 7px;
+  border-radius: 1rem;
+  padding: 5px 10px 5px 10px;
+}
+
+.unknown {
+  background-color: #d3ddcf;
+  margin-right: 7px;
+  border-radius: 1rem;
+  padding: 5px 10px 5px 10px;
+}
+
+.fairy {
+  background-color: #f0a878;
+  margin-right: 7px;
+  border-radius: 1rem;
+  padding: 5px 10px 5px 10px;
+}
+
+.dark {
+  background-color: #838180;
+  margin-right: 7px;
+  border-radius: 1rem;
+  padding: 5px 10px 5px 10px;
+}
+
+.dragon {
+  background-color: #64d664;
+  margin-right: 7px;
+  border-radius: 1rem;
+  padding: 5px 10px 5px 10px;
+}
+
+.ice {
+  background-color: #4ac7f8;
+  margin-right: 7px;
+  border-radius: 1rem;
+  padding: 5px 10px 5px 10px;
+}
+
+.water {
+  background-color: #7073ff;
+  margin-right: 7px;
+  border-radius: 1rem;
+  padding: 5px 10px 5px 10px;
+}
+
+.electric {
+  background-color: #ffe086;
+  margin-right: 7px;
+  border-radius: 1rem;
+  padding: 5px 10px 5px 10px;
+}
+
+.steel {
+  background-color: #aeb3ad;
+  margin-right: 7px;
+  border-radius: 1rem;
+  padding: 5px 10px 5px 10px;
+}
+
+.ghost {
+  background-color: #c7cec5;
+  margin-right: 7px;
+  border-radius: 1rem;
+  padding: 5px 10px 5px 10px;
+}
+
+.bug {
+  background-color: #d37dc7;
+  margin-right: 7px;
+  border-radius: 1rem;
+  padding: 5px 10px 5px 10px;
+}
+
+.rock {
+  background-color: #c79528;
+  margin-right: 7px;
+  border-radius: 1rem;
+  padding: 5px 10px 5px 10px;
+}
+
+.ground {
+  background-color: #8d877a;
+  margin-right: 7px;
+  border-radius: 1rem;
+  padding: 5px 10px 5px 10px;
+}
+
+.flying {
+  background-color: #8dbeba;
+  margin-right: 7px;
+  border-radius: 1rem;
+  padding: 5px 10px 5px 10px;
+}
+
+.fighting {
+  background-color: #ff4b4b;
+  margin-right: 7px;
+  border-radius: 1rem;
+  padding: 5px 10px 5px 10px;
+}
+
+.normal {
+  background-color: #69ff4b;
+  margin-right: 7px;
+  border-radius: 1rem;
+  padding: 5px 10px 5px 10px;
+}
